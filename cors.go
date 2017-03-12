@@ -27,8 +27,8 @@ import (
 	"strconv"
 	"strings"
 
+	"context"
 	"github.com/rs/xhandler"
-	"golang.org/x/net/context"
 )
 
 // Options is a configuration container to setup the CORS middleware.
