@@ -28,7 +28,7 @@ import (
 	"strings"
 
 	"context"
-	"github.com/rs/xhandler"
+	"github.com/fzerorubigd/xhandler"
 )
 
 // Options is a configuration container to setup the CORS middleware.
